@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* With friedns:
+  * watch TV
+  * play games
+* alone:
+  * watch TV
+  * code
